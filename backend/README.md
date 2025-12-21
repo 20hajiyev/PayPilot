@@ -38,7 +38,7 @@ backend/
 ## Edge Functions
 
 ### `ai-chat`
-AI-powered chat endpoint using Google Gemini 1.5 Flash.
+AI-powered chat endpoint using Google Gemini 2.5 Flash.
 
 **Endpoint:** `POST /functions/v1/ai-chat`
 
