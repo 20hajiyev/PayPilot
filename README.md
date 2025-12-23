@@ -1,4 +1,4 @@
-# CardAssistant
+# PayPilot
 
 AI-powered banking assistant mobile application built with React Native (Expo) and Supabase.
 
